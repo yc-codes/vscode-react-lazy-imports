@@ -1,9 +1,9 @@
 {
   "name": "reactjs-vscode-helper",
-  "displayName": "reactjs-vscode-helper",
+  "displayName": "React lazy import converter",
   "description": "Converts react imports to React.lazy imports",
   "publisher": "scorpion",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.84.0"
   },
